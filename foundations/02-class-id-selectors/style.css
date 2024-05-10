@@ -1,6 +1,6 @@
 .class-sel
 {
-    background-color: rgba(150,000,50,.5);
+    background-color: rgba(238, 69, 92, 0.5);
     font-family: Verdana,Tahoma, sans-serif;
 }
 
@@ -8,4 +8,11 @@
 {
     color: rgb(000,000,255);
     font-size: 36px;
+}
+
+#id-two
+{
+    background-color: rgba(139, 233, 115, 0.342);
+    font-size: 24px;
+    font-weight: bold;
 }
