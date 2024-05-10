@@ -1,23 +1,22 @@
-.class-sel
+.odd
 {
     background-color: rgba(238, 69, 92, 0.5);
     font-family: Verdana,Tahoma, sans-serif;
 }
 
-#id-one 
+#two 
 {
     color: rgb(000,000,255);
     font-size: 36px;
 }
 
-#id-two
+#four
 {
     background-color: rgba(139, 233, 115, 0.342);
-    font-size: 24px;
     font-weight: bold;
 }
 
-.class-sel.two
+.adjust-font-size
 {
     font-size: 24px;
 }
