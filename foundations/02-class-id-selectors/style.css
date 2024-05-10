@@ -6,13 +6,13 @@
 
 #two 
 {
-    color: rgb(000,000,255);
+    color: #0000ff;
     font-size: 36px;
 }
 
 #four
 {
-    background-color: rgba(139, 233, 115, 0.342);
+    background-color: hsl(120, 100%, 75%);
     font-weight: bold;
 }
 
