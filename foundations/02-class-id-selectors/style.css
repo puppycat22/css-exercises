@@ -1,22 +1,19 @@
-.odd
-{
-    background-color: rgba(238, 69, 92, 0.5);
-    font-family: Verdana,Tahoma, sans-serif;
+.odd{
+    background-color: rgb(235, 122, 122);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
-#two 
-{
-    color: #0000ff;
+
+#two{
+    color:hsl(246, 93%, 49%);
     font-size: 36px;
-}
+    }
 
-#four
-{
-    background-color: hsl(120, 100%, 75%);
-    font-weight: bold;
-}
-
-.adjust-font-size
-{
+.font-change{
     font-size: 24px;
+}
+
+#four{
+    background-color:hsl(128, 78%, 70%);
+    font-weight: bold;
 }
