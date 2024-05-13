@@ -1,0 +1,14 @@
+.button-one{
+    background-color: rgb(rgba(0, 0, 0, 0), rgb(0, 0, 0), rgb(0, 0, 0));
+    color: #ffffff;
+    font-weight: bold;
+}
+
+.button-two{
+    background-color: hsl(59, 100%, 51%);
+}
+
+.button-one.button-two{
+    font-size: 28px;
+    font-family: helvetica, Times New Roman, Sans-serif;
+}
